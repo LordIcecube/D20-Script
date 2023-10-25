@@ -12,4 +12,4 @@ while True:
 
 #Source: https://www.youtube.com/watch?v=4j3iljXn2EI&t=190s&ab_channel=BrianFediuk
 
-#Github Link: 
+#Github Link: https://github.com/LordIcecube/D20-Script/tree/main
