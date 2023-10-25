@@ -5,7 +5,7 @@ while True: #While the Import random is true, the system will do these functions
     d20 = random.randint (1,20) #Chooses random integer between 1 and 20, creates a d20 variable
     print (d20) #printing the function
 
-    if d20 == 1 : #If d20 = 1, system prints a critical fial message.
+    if d20 == 1 : #If d20 = 1, system prints a critical fail message.
         print ("Critical Fail!")
     elif d20 == 20 : #If d20 = 20, system prints a critical hit message.
         print ("Critical Hit!")
